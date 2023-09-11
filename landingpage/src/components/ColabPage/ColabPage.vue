@@ -2,15 +2,15 @@
     <div class="space-y-4">
         <div class="relative mt-6 ">
             <div class="flex justify-center flex-col  items-center gap-7 ">
-                <div class="idea_tag hidden lg:block">
+                <div class="idea_tag hidden lg:block ">
                     <img src="../../assets/images/ideatag.svg" />
                 </div>
-                <h1 class="text-lg md:text-4xl font-bold text-specialBlack text-center mt-4 relative">Collaborate without  <br> constraints</h1>
+                <h1 class="text-lg md:text-4xl custom_index font-bold text-specialBlack text-center mt-4 relative">Collaborate without  <br> constraints</h1>
             </div>
         </div>
         <div class="space-y-6">
             <div class="container mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-                <div class="p-2 space-y-2">
+                <div class="p-2 space-y-2 ">
                     <h3 class="text-center text-lg md:text-left  md:text-2xl font-bold text-specialBlack">Free forever</h3>
                     <p class="text-grayText text-sm text-justify">Our free plan gives you unlimited team members, 3 boards, and 300+ expert-made templates.
                          Signing up with your work email lets you bring in your team faster. See our <a class="text-primaryBlue">pricing plans</a>  for more features.</p>
@@ -42,5 +42,9 @@
         height: 20px;
         position: relative;
         left: 16%;
+        z-index:-1
+    }
+    .custom_index{
+        z-index: -1;
     }
 </style>

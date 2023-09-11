@@ -7,7 +7,7 @@
         <HeroSection />
      </div>
      <div>
-        <BrandSection />
+        <BrandSection class="animated-element" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500" />
      </div>
      <div>
         <ColabPage />

@@ -1,6 +1,6 @@
 <template>
     <div class=" w-full bg-white nav_wrapper">
-        <nav class="px-3 py-4">
+        <nav class="px-3 py-4 z-100 bg-white">
             <div class="flex items-center justify-between ">
                 <div class="flex items-center space-x-4">
                     <div class="logo pb-2">
@@ -90,7 +90,5 @@
     }
 </script>
 <style scoped>
-    .nav_wrapper{
-        z-index: 100 !important;
-    }
+    
 </style>
