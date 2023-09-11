@@ -16,7 +16,8 @@ module.exports = {
          borderColor:'#9B99AF',
          activeText:'#F1F3FD',
          lightBorder:'#F2F2F2',
-         yellow:'#FFD02F'
+         yellow:'#FFD02F',
+         
       }
     },
   },

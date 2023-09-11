@@ -28,6 +28,9 @@
       <TestimonialPage />
      </div>
      <div>
+        <SignupAd />
+     </div>
+     <div>
       <FooterPage />
      </div>
   </div>    
@@ -44,6 +47,7 @@
   import BrainstormPage from './components/BrainstormPage/BrainstormPage.vue'
   import StatsSection from './components/StatsSection/StatsSection.vue'
   import TestimonialPage from './components/TestimonialPage/TestimonialPage.vue'
+  import SignupAd from './components/SignupAd/SignupAd.vue'
   import FooterPage from './components/FooterPage/FooterPage.vue'
 export default {
   name: 'App',
@@ -57,6 +61,7 @@ export default {
     BrainstormPage,
     StatsSection,
     TestimonialPage,
+    SignupAd,
     FooterPage
   }
 }

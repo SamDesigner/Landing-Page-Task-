@@ -9,77 +9,75 @@
             </div>
             <ul class="grid grid-cols-1  md:grid-cols-2 lg:grid-cols-3 gap-3 ">
                 <li class="">
-                    <div class="">
-                        <div >
-                            <div class="h-20  flex items-center shadow-sm p-3" >
+                    <div class="flex flex-col justify-center items-center" >
+                        <div>
+                            <div class="h-20   flex items-center shadow-sm p-3" >
                                 <img src="../../assets/images/vmware.svg" />
                             </div>
-                          
-                          
+                            
                         </div>
                         <div>
-                                <p class="text-grayText text-sm">
-                                “When the pandemic hit, those of us who thrive on in-person collaboration were worried that
-                                our creativity and productivity would suffer. Miro was the perfect tool to help us with collaboration, 
-                                whiteboarding, and retrospectives while remote.”
-                                </p>
-                            </div>
-                        <div class="baseline">
+                            <p class="text-center text-grayText text-sm">
+                                “As we used Miro we moved from skepticism to belief to innovation, and now we have a tool that’s at the core of what we do and will continue to extend into the future.”
+                            </p>
+                        </div>
+                        <div class="flex flex-col justify-center items-center">
                             <div class="custom_img">
                                 <img src="../../assets/images/test-1.svg" />
                             </div>
-                            <div>
-                                <p>Roxanne Mustafa</p>
+                            <div class="text-center">
+                                <p class="text-sm text-grayText">Roxanne Mustafa</p>
                                 <p>Design Team Lead at VMware</p>
                             </div>
                         </div>
                     </div>
-                </li>
-                <li class="">
-                    <div>
-                        <div>
-                            <div class="h-20  flex items-center shadow-sm p-3" >
-                            <img src="../../assets/images/docusign.svg" />
-                            </div>
-                           
-                        </div>
-                        <div> 
-                            <p class="text-grayText text-sm">
-                                “Miro helps solve one of the major gaps in product design: how to manage tasks across product designers whose projects are in different tools.”
-                            </p>
-                        </div>
-                        <div class="baseline">
-                            <div class="custom_img">
-                                <img src="../../assets/images/test-2.svg" />
-                            </div>
-                            <div>
-                                <p>Roxanne Mustafa</p>
-                                <p>Design Team Lead at VMware</p>
-                            </div>
-                        </div>
-                    </div>
-                    
                 </li>
 
                 <li class="">
-                    <div >
+                    <div class="flex flex-col justify-center items-center" >
                         <div>
-                            <div class="h-20  flex items-center shadow-sm p-3" >
+                            <div class="h-20   flex items-center shadow-sm p-3" >
+                                <img src="../../assets/images/docusign.svg" />
+                            </div>
+                            
+                        </div>
+                        <div>
+                            <p class="text-center text-grayText text-sm">
+                                “As we used Miro we moved from skepticism to belief to innovation, and now we have a tool that’s at the core of what we do and will continue to extend into the future.”
+                            </p>
+                        </div>
+                        <div class="flex flex-col justify-center items-center">
+                            <div class="custom_img">
+                                <img src="../../assets/images/test-2.svg" />
+                            </div>
+                            <div class="text-center">
+                                <p class="text-sm text-grayText">Roxanne Mustafa</p>
+                                <p>Design Team Lead at VMware</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+
+                <li class="">
+                    <div class="flex flex-col justify-center items-center" >
+                        <div>
+                            <div class="h-20   flex items-center shadow-sm p-3" >
                                 <img src="../../assets/images/frog.svg" />
                             </div>
                             
                         </div>
                         <div>
-                            <p class="text-grayText text-sm">
+                            <p class="text-center text-grayText text-sm">
                                 “As we used Miro we moved from skepticism to belief to innovation, and now we have a tool that’s at the core of what we do and will continue to extend into the future.”
                             </p>
                         </div>
-                        <div>
+                        <div class="flex flex-col justify-center items-center">
                             <div class="custom_img">
                                 <img src="../../assets/images/test-3.svg" />
                             </div>
-                            <div>
-                                <p>Roxanne Mustafa</p>
+                            <div class="text-center">
+                                <p class="text-sm text-grayText">Roxanne Mustafa</p>
                                 <p>Design Team Lead at VMware</p>
                             </div>
                         </div>
