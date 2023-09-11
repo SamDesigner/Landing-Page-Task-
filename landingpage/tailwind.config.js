@@ -13,7 +13,10 @@ module.exports = {
          primaryBlue:'#4262FF',
          specialBlack:'#050038',
          grayText:'rgba(5, 0, 56, 0.72)',
-         borderColor:'#9B99AF'
+         borderColor:'#9B99AF',
+         activeText:'#F1F3FD',
+         lightBorder:'#F2F2F2',
+         yellow:'#FFD02F'
       }
     },
   },

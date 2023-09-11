@@ -1,5 +1,5 @@
 <template>
-    <div class="p-3 space-y-4">
+    <div class="p-3 space-y-4 bg-white">
         <ul class="flex flex-col justify-center space-y-4">
                     <li class="flex items-center justify-between">
                         <a href="#" class="text-md">Product</a> 
