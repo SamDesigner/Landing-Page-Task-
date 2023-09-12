@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-yellow p-5 md:h-screen flex flex-col justify-center">
+    <div class="bg-yellow p-5 md:custom_height flex flex-col justify-center">
         <div class="container mx-auto text-specialBlack space-y-6">
             <h1 class="text-2xl md:text-4xl text-center font-bold">
                 Why companies large <br> and small trust Miro
@@ -36,3 +36,9 @@
         </div>
     </div>
 </template>
+
+<style scoped>
+    .custom_height{
+        min-height: 100vh;
+    }
+</style>

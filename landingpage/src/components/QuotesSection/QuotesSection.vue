@@ -18,7 +18,7 @@
             </div>
             <div class="md:p-3 text-sm mg:text-lg space-y-4 md:text_break">
                 <h1 class="text-lg md:text-2xl lg:text-4xl text-specialBlack font-bold">Connect your tools, close your tabs</h1>
-                <p class="text-grayText text-justify">Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom, Miro has 100+ integrations with tools you already use and love.</p>
+                <p class="text-grayText md:text-justify">Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom, Miro has 100+ integrations with tools you already use and love.</p>
                 <div class="">
                     <a href="#" class="text-primaryBlue  underline mt-4">Learn more <i class="pi pi-arrow-right text-xs"></i></a>
                 </div>
