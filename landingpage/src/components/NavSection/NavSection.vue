@@ -1,23 +1,23 @@
 <template>
     <div class=" w-full bg-white nav_wrapper">
-        <nav class="px-3 py-4 z-100 bg-white">
+        <nav class="px-3 py-4 z-100 bg-white border-b ">
             <div class="flex items-center justify-between ">
                 <div class="flex items-center space-x-4">
                     <div class="logo pb-2">
                         <img src="../../assets/images/logo.svg" />
                     </div>
                     <ul class="hidden md:flex items-center space-x-6">
-                        <li>
+                        <li class="space-x-2">
                             <a href="#" class="text-md">Product</a> 
                             <i class="pi pi-chevron-down text-xs"></i>
                         </li>
-                        <li>
+                        <li class='space-x-2'>
                             <a href="#" class="text-md">Solutions</a> 
                             <i class="pi pi-chevron-down text-xs"></i>
                         </li>
-                        <li>
+                        <li class="space-x-2">
                             <a href="#" class="text-md">Resources</a> 
-                            <i class="pi pi-chevron-down text-xs"></i>
+                            <i class="pi pi-chevron-down text-xs align-baseline"></i>
                         </li>
                         <li>
                             <a href="#">Enterprise</a>

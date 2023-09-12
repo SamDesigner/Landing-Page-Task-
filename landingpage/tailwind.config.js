@@ -18,6 +18,11 @@ module.exports = {
          lightBorder:'#F2F2F2',
          yellow:'#FFD02F',
          
+      },
+      margin:{
+        'vh-5':'5vh',
+        'vh-8':'8vh',
+        'vh-10':'10vh'
       }
     },
   },

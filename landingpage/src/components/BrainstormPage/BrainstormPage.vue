@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="md:flex md:flex-col md:justify-center md:items-center">
         <div class="mt-8">
             <div class="container mx-auto">
                 <h3 class="text-lg md:text-3xl text-specialBlack font-bold text-center md:text-left">Built for the way you work</h3>
@@ -32,8 +32,8 @@
                 </div>
             </div>  
         </div>
-        <div class="mt-8">
-            <div class="container mx-auto">
+        <div class="mt-vh-10 ">
+            <div class="container mx-auto mt-vh-5">
                 <h3 class="text-lg md:text-3xl text-specialBlack font-bold text-center md:text-left">Built for all kinds of teams</h3>
                 <ul class="flex justify-between overflow-x-auto mt-4 whitespace-nowrap space-x-3 lg:space-x-1">
                     <li class="border border-lightBorder text-sm bg-activeText text-specialBlack  p-2 text-sm  lg:p-2 rounded-3xl">UX & Design</li>
@@ -63,7 +63,7 @@
                         </li>
                     </ul> 
 
-                    <div class="space-y-6 p-3">   
+                    <div class="space-y-9 p-3">   
                         <div>
                             <a href="#" class="text-sm text-primaryBlue">
                                 Learn more
