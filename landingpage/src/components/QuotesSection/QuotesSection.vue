@@ -2,7 +2,7 @@
     <div class="mt-vh-5 space-y-10">
         <div class="container mx-auto flex flex-col-reverse md:grid md:grid-cols-2 items-center md:space-x-6">
             <div class="p-3 text-sm mg:text-lg  space-y-4 md:custom_width">
-                <h1 class="text-2xl lg:text-4xl text-specialBlack font-bold">Work together, wherever you work</h1>
+                <h1 class="text-lg md:text-2xl lg:text-4xl text-specialBlack font-bold">Work together, wherever you work</h1>
                 <p class="text-grayText text-justify">In the office, remote, or a mix of the two, with Miro, your team can connect, collaborate, and co-create in one space no matter where you are.</p>
                 <div class="mt-vh-10">
                     <a href="#" class="text-primaryBlue  underline ">Learn more <i class="pi pi-arrow-right text-xs"></i></a>
@@ -12,7 +12,7 @@
                 <img src="../../assets/images/hybrid.svg" />
             </div>
         </div>
-        <div class="container mx-auto flex flex-col md:grid grid-cols-2 items-center space-x-6">
+        <div class="container mx-auto flex flex-col md:grid grid-cols-2 items-center md::space-x-6">
             <div>
                 <img src="../../assets/images/pcimg.svg" />
             </div>
