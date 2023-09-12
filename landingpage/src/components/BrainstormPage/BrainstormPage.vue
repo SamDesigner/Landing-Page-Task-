@@ -14,7 +14,7 @@
                     
                 </ul>
             </div>  
-            <div class="container mx-auto md:grid flex flex-col-reverse md:grid-cols-2 lg:grid-cols-3">
+            <div class="container mx-auto mt-vh-5 md:grid flex flex-col-reverse md:grid-cols-2 lg:grid-cols-3">
                 <div class="pt-5 space-y-6 px-3">
                     <h3 class="text-specialBlack text-xl font-bold">Brainstorming</h3>
                     <p>Unleash creative ideas and build on them with the help of sticky notes, images, mind maps, videos, drawing capabilities — the list goes on.</p>
@@ -46,7 +46,7 @@
                     
                 </ul>
             </div>  
-            <div class="container mx-auto md:grid flex flex-col-reverse md:grid-cols-2 lg:grid-cols-3 gap-3">
+            <div class="container mx-auto mt-vh-5 md:grid flex flex-col-reverse md:grid-cols-2 lg:grid-cols-3 gap-3">
                 <div class="pt-5 space-y-6">
                     <ul class="p-3">
                         <li class="flex space-x-3">
