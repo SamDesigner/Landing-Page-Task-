@@ -1,7 +1,7 @@
 <template>
-    <footer class="px-2 py-5 md:px-6 md:py-8 mt-5 bg-specialBlack text-white space-y-6" >
-        <div class=" grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-            <div>
+    <footer class="px-2 py-5 md:px-6  md:py-8 mt-5 bg-specialBlack text-white space-y-6 text-xs" >
+        <div class=" grid md:grid-cols-3 lg:grid-cols-5 gap-4">
+            <div class="space-y-5">
                 <h3 class="text-xl font-bold">Product</h3>
                 <ul class="space-y-3">
                     <li>
@@ -37,7 +37,7 @@
                     <a href="#" class="underline ">View demo <i class="pi pi-arrow-right text-xs"></i></a>
                 </div>
             </div>
-            <div>
+            <div class="space-y-5">
                 <h3 class="text-xl font-bold">Solutions</h3>
                 <ul class="space-y-3">
                     <li>
@@ -77,7 +77,7 @@
                 </ul>
                 
             </div>
-            <div>
+            <div class="space-y-5">
                 <h3 class="text-xl font-bold">Resources</h3>
                 <ul class="space-y-3">
                     <li>
@@ -109,8 +109,8 @@
                 </ul>
                 
             </div>
-            <div>
-                <h3 class="text-xl font-bold">About Us</h3>
+            <div class="space-y-5">
+                <h3 class="text-xl font-bold">Company</h3>
                 <ul class="space-y-3">
                     <li>
                         <a href="#">About us</a>
@@ -128,24 +128,55 @@
                    
                 </ul>
             </div>
+            <div class="space-y-5">
+                <h3 class="text-xl font-bold">Plans  and Pricing</h3>
+                <ul class="space-y-3">
+                    <li>
+                        <a href="#">Pricing</a>
+                    </li>
+                    <li>
+                        <a href="#">Business </a>
+                    </li>
+                    <li>
+                        <a href="#">Enterprise</a>
+                    </li>
+                    <li>
+                        <a href="#">Consultants</a>
+                    </li>
+                    <li>
+                        <a href="#">Education</a>
+                    </li>
+                    <li>
+                        <a href="#">Startups</a>
+                    </li>
+                    <li>
+                        <a href="#">NPOs</a>
+                    </li>
+                  
+                   
+                </ul>
+                <div class="mt-4">
+                    <a href="#" class="underline ">Contact sales <i class="pi pi-arrow-right text-xs"></i></a>
+                </div>
+            </div>
         </div>
         <div class="border border-white w-full ">
 
         </div>
-        <div class="flex flex-col space-y-6  items-center md:flex-row md:space-y-0 md:justify-between  space-x-8  ">
-            <div>
-                <ul class="flex justify-center space-x-5">
+        <div class="flex flex-col justify-center items-center lg:grid   lg:grid-cols-3 space-y-6 lg:space-y-0 ">
+            <div class="flex flex-col  items-center gap-4  lg:col-span-2 ">
+                <ul class="flex items-center gap-4">
                     <li><i class="pi pi-twitter text-lg"></i></li>
                     <li><i class="pi pi-facebook text-lg"></i></li>
                     <li><i class="pi pi-linkedin text-lg"></i></li>
                     <li><i class="pi pi-instagram text-lg"></i></li>
                     <li><i class="pi pi-youtube text-lg"></i></li>
                     <li><i class="pi pi-globe text-lg"></i> EN</li>
-                 </ul>
-                <div class="flex flex-col  items-center space-y-3   md:flex-row space-x-5">
+                </ul>
+                <div class="flex flex-col md:flex-row gap-4 items-center">
                 
                     <p>&copy; Copyright 2022 Miro</p>
-                    <ul class="flex space-x-2 whitespace-nowrap md:space-x-4">
+                    <ul class="flex items-center gap-3">
                         
                         <li><a href="#">Terms of service</a></li>
                         <li><a href="#">Privacy Policy</a></li>
@@ -161,3 +192,8 @@
         </div>
     </footer>
 </template>
+<style scoped>
+    @media(max-width:1200px){
+
+    }
+</style>
